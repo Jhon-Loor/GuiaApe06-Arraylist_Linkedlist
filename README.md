@@ -1,2 +1,4 @@
 # GuiaApe06-Arraylist_Linkedlist
-En este repositorio se mostrarán todos los ejercicios propuestos en la Guía APE 6 con el uso de los ArrayList y LinkedList
+Repositorio que contiene 10 ejercicios prácticos desarrollados en C++ y Java utilizando las estructuras dinámicas ArrayList y LinkedList. Los ejercicios permiten practicar operaciones básicas como insertar, eliminar, buscar y mostrar elementos, fortaleciendo el manejo de estructuras de datos y la lógica de programación.
+
+Tiene un enfoque educativo, orientado a comprender el funcionamiento, ventajas y diferencias entre listas dinámicas en ambos lenguajes de programación mediante ejemplos prácticos y sencillos.
